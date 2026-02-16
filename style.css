@@ -411,9 +411,9 @@ html, body {
 }
 
 /* image mapping */
-.slide1 { background-image: url("frontimage.png"); animation-delay: 0s; }
+.slide1 { background-image: url("front3.png"); animation-delay: 0s; }
 .slide2 { background-image: url("front2.png"); animation-delay: 8s; }
-.slide3 { background-image: url("front3.png"); animation-delay: 16s; }
+.slide3 { background-image: url("frontimage.png"); animation-delay: 16s; }
 .slide4 { background-image: url("front4.png"); animation-delay: 24s; }
 
 /* fade + zoom */
